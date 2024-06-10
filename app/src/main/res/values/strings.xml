@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ertuğrul Pakdamar</string>
+    <string name="bio">Merhaba! Ben Ertuğrul Pakdamar,
+
+        \n\nGenç bir yazılımcıyım.
+        \n\nFlutter, Kotlin, Unity, Unreal Engine, Python gibi dillerde mobil uygulama, oyun geliştirme ve yapay zeka alanlarında çalışmalar yapıyorum.
+        \n\nÖğrenmeye ve kendimi geliştirmeye her zaman açığım.
+        \n\nBana Ulaşın: E-mail | Linktree | GitHub
+
+        \n\n- Mobil Geliştirme: Flutter, Kotlin
+        \n- Oyun Geliştirme: Unity, Unreal Engine
+        \n- Programlama Dilleri: Python, C++, C#
+        \n- Web Geliştirme: HTML, CSS, JavaScript
+        \n- Veritabanı Yönetimi: SQL
+        \n- Siber Güvenlik: Temel bilgiler
+
+        \n\n- Maruf Akademi Kişisel Gelişim ve Girişimcilik
+        \n- BTK: Google Flutter ile Mobil Uygulama
+        \n- Boğaziçi Enstitüsü C++ Programlama Dili
+        \n- İngilizce Dil Proje Sınıfı B1 Düzey İngilizce
+        \n- Arapça Dil Hazırlık A1 Düzey Arapça
+    </string>
+</resources>
